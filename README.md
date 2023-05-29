@@ -1,5 +1,5 @@
 # whisper-live-transcription
-A small personal project to use Whisper AI to make live transcription
+A small personal project to use Whisper AI to make live transcriptions
 
 It is a cumbersome code at the moment and will work on it on my free time to make the code more neat.
 
